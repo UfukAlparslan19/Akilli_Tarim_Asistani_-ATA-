@@ -39,21 +39,18 @@ Mahsul Doğruluk Oranı     Mahsul Doğruluk Oranı
 🍚 Pirinç,%94.76,         🍑 Şeftali,%85.58
 
 
-
-
-📁 Klasör Hiyerarşisi
-
-Projenin kendi cihazınızda sorunsuz çalışması için önerilen dizin yapısı:
-
+Projenin derli toplu çalışması için tavsiye edilen klasör yapısı:
 ATA-Projesi/
+│
 ├── data/
-│   └── raw/                   # Mahsul klasörlerinin (saglikli, hastalikli) bulunduğu dizin
-├── grafikler/                 # Eğitim sürecinde otomatik üretilen başarı grafikleri
-├── gradcam_ornekleri/         # XAI (Grad-CAM) çıktıları
-├── egitim_otomatik.py         # 12 mahsulü sırayla eğiten akıllı eğitim scripti
-├── test_gui.py                # Masaüstü Kullanıcı Arayüzü (Tkinter + Gemini AI)
-├── README.md                  # Bu dosya
-└── requirements.txt           # Bağımlılıklar
+│   └── raw/                   # Eğitim fotoğraflarının bulunduğu ana dizin
+├── grafikler/                 # Eğitim sürecinde otomatik üretilen Loss/Acc grafikleri
+├── gradcam_ornekleri/         # Modelin odak noktalarını gösteren Grad-CAM çıktıları
+│
+├── egitim_otomatik.py         # 12 mahsulü sırayla eğiten, grafikleri ve Grad-CAM'i çıkaran ana script
+├── test_gui.py                # Gemini destekli, Tkinter tabanlı son kullanıcı arayüzü
+├── requirements.txt           # Gerekli kütüphaneler
+└── README.md                  # Proje dokümantasyonu
 
 
 
