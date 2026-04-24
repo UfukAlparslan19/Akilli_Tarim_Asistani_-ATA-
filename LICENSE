@@ -1,21 +1,16 @@
-MIT License
+ATA - Akıllı Tarım Asistanı
+Telif Hakkı (c) 2026 [Senin Adın/Takımının Adı]
 
-Copyright (c) 2026 UfukAlparslan19
+BU PROJE TİCARİ KULLANIMA KAPALIDIR (NON-COMMERCIAL LICENSE)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Bu proje (ATA - Akıllı Tarım Asistanı) ve içerdiği tüm kodlar, veri setleri, model ağırlıkları ve arayüz tasarımları açık kaynak olarak paylaşılmış olup, KESİNLİKLE TİCARİ AMACA YÖNELİK KULLANILAMAZ.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+KULLANIM KOŞULLARI:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+İzin Verilen Durumlar (Kişisel/Eğitim): Bu projeyi kişisel gelişim, akademik araştırma, eğitim ve yarışma (örn. Teknofest) amaçlarıyla indirebilir, inceleyebilir ve değiştirebilirsiniz.
+
+Yasaklanan Durumlar (Ticari): Bu projenin kaynak kodları, eğitilmiş yapay zeka modelleri (.pth dosyaları) veya arayüzü; hiçbir şekilde bir şirkete satılamaz, ticari bir mobil/masaüstü uygulamasına entegre edilemez veya doğrudan/dolaylı yoldan gelir elde etmek amacıyla kullanılamaz.
+
+Atıf (Attribution): Bu projeden kod veya fikir alınarak yapılacak akademik veya kişisel projelerde, bu GitHub reposu kaynak olarak gösterilmelidir.
+
+Bu repo "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)" ilkeleri temel alınarak lisanslanmıştır.
